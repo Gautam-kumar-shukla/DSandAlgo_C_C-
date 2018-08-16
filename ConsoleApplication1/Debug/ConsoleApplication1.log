@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+c:\users\gs951783\box sync\intreset\c_c++\consoleapplication1\consoleapplication1\consoleapplication1.cpp(43): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\gs951783\box sync\intreset\c_c++\consoleapplication1\consoleapplication1\consoleapplication1.cpp(43): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\gs951783\box sync\intreset\c_c++\consoleapplication1\consoleapplication1\consoleapplication1.cpp(43): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\gs951783\box sync\intreset\c_c++\consoleapplication1\consoleapplication1\consoleapplication1.cpp(43): note: this argument is used as a buffer size
+  ConsoleApplication1.vcxproj -> C:\Users\gs951783\Box Sync\intreset\c_c++\ConsoleApplication1\Debug\ConsoleApplication1.exe
