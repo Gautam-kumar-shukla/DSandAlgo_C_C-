@@ -39,5 +39,26 @@ void insertion_sort(int s[], int n)
 
 }
 
+void insertion_sort_v2(int s[], int n)
+{
+	int i, j, key;
+
+	for (i = 0; i < n; i++) {
+		key = s[i];
+		j = i - 1;
+		while (j >= 0 && s[j] > key) {
+			s[j + 1] = s[j];
+			j = j - 1;
+		}
+		s[j + 1] = key;
+
+	}
+}
+
+
+
+
+
+
 
 
