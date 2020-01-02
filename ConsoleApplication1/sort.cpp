@@ -120,8 +120,11 @@ void insertion_sort_v2(int s[], int n)
 		}
 		s[j + 1] = key; /* Once we are out of the loop , it means this is the place where we can insert the key */
 
+
 	}
 }
+
+
 
 int find_min(int arr[], int n)
 {
